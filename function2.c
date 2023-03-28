@@ -160,7 +160,3 @@ count++;
 }
 return (count);
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 193909f9001e2a4faaa378f74cae86e85ce9b2f1
